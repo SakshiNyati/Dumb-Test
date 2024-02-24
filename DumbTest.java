@@ -1,5 +1,3 @@
-package sam;
-
 import java.lang.Math;
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
